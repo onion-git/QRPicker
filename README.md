@@ -1,5 +1,5 @@
 # QRPicker
-<<<<<<< HEAD
+
 
 🖱 画面範囲を選択して QRコード / バーコードを即読み取り  
 📋 結果を自動コピー・URL は即オープン可能  
@@ -54,6 +54,4 @@
 
 ```bat
 build.bat
-=======
-Screen area QR code scanner for Windows
->>>>>>> 1030b21e259bec8eef2fae8fa3a7bd5679bf1e26
+
